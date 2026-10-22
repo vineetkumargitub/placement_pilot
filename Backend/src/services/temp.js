@@ -63,4 +63,5 @@ I am a full-stack developer who enjoys building clean, secure web apps.
 I want to move into a product company and grow into backend architecture.
 `
 
+
 module.exports = { resume, jobDescription, selfDescription }
